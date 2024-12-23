@@ -1,1 +1,58 @@
-# me
+# Waqar A. Detho
+
+## Senior Application Development Specialist | Full-Stack Developer
+
+### About Me
+I am an experienced Full-Stack Developer with over 10 years of expertise in Java, Spring Boot, and Angular. I have worked on scalable applications and led teams in Agile environments. My passion for innovative IT solutions is complemented by my educational background in AI and Machine Learning.
+
+### Skills
+- **Programming Languages:** Java, Python, Visual Basic
+- **Frameworks & Tools:** Spring Boot, Angular, Jenkins, Docker
+- **Cloud Technologies:** AWS, CloudFoundry
+- **Databases:** MySQL, PostgreSQL, DB2
+- **Languages:** German (C1), English (C1-C2), Urdu (Native), Sindhi (Native)
+
+### Education
+- **Master's in Information Engineering**, Universität Konstanz (Focus: AI and Machine Learning)
+- **Exchange Semester**, Vienna University of Technology (Software Engineering)
+- **Bachelor's in Computer Science & IT**, NED University of Engineering and Technology
+
+### Professional Experience
+#### FAU (Bern, Switzerland)
+**Professional and Personal Development** (May 2024 – Present)
+- Engaged in learning new work formats, agile methods, personal branding, and self-presentation.
+
+#### IBM (Bern, Switzerland)
+**Senior Application Developer** (Jan 2022 – Jun 2023)
+- Developed projects for the Swiss Federal Office of IT.
+- **Tech:** Java 11, Spring Webflux, Angular, Postgres SQL, Docker, Jenkins.
+
+#### Accenture (Hamburg, Germany)
+**Application Development Specialist** (Sep 2019 – Dec 2021)
+- Developed web services for GDPR compliance at KfW Bank.
+- **Tech:** Java, Spring Boot, AWS, CI/CD.
+
+#### OTTO GmbH & Co KG (Hamburg, Germany)
+**Software Developer** (Feb 2017 – Jan 2019)
+- Enhanced CMS and migrated microservices to AWS.
+- **Tech:** Java, Spring Boot, AngularJS, AWS.
+
+#### Universität Konstanz (Germany)
+**Student Research Assistant** (Nov 2013 – Apr 2015)
+- Worked on the "DAMIART" project for data mining using ART neural networks.
+
+### Certifications
+- Learning Jenkins
+- API Security
+- Reactive Programming in Java
+- Building Angular Applications
+
+### Publications
+- Developing a system for securely timestamping and visualizing changes in online news content.
+
+### Contact
+- **Email:** waqar.detho@gmail.com
+- **Phone:** +49-175-5763-512
+- **LinkedIn:** [linkedin.com/in/waqaralidetho](https://www.linkedin.com/in/waqaralidetho)
+
+---
