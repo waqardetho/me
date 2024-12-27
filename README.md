@@ -67,10 +67,14 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 ![Waqar A. Detho](waqar-chair.jpg)
 
 ### Certifications
-- Learning Jenkins
-- API Security
-- Reactive Programming in Java
-- Building Angular Applications
+- **Persuade Rhetorically**, Echo-Training (Issued Oct 2024)
+- **Prompt Engineering with ChatGPT**, LinkedIn (Issued Oct 2024)
+- **New Work - Principles, Frameworks and Methods**, Explorativa (Issued Sep 2024)
+- **Personal Branding**, VANK Consulting GmbH (Issued Sep 2024)
+- **Essentials for Solution Engineers**, LinkedIn (Issued Aug 2024)
+- **Success Through Inner Strength**, About You (Issued Aug 2024)
+- **API Security**, Accenture (Issued Mar 2021)
+- **Java Reactive Programming [From Scratch]**, Udemy (Issued Jan 2023)
 
 ### Publications
 - [Developing a system for securely timestamping and visualizing changes in online news content.](https://arxiv.org/abs/1802.07285){:target="_blank"}
