@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: Waqar A. Detho Portfolio
+description: A comprehensive showcase of my professional journey and skills.
+baseurl: "waqardetho.com"
+url: "https://waqar-detho.github.io"
+markdown: kramdown
