@@ -8,12 +8,12 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 - **Programming Languages:** Java, Python, Visual Basic
 - **Frameworks & Tools:** Spring Boot, Angular, Jenkins, Docker
 - **Cloud Technologies:** AWS, CloudFoundry
-- **Databases:** MySQL, PostgreSQL, DB2
+- **Databases:** MySQL, PostgreSQL, DB2, MongoDB, MSSQL Server
 - **Languages:** German (C1), English (C1-C2), Urdu (Native), Sindhi (Native)
 
 ### Education
 - **Master's in Information Engineering**, Universität Konstanz (Focus: AI and Machine Learning)
-- **Exchange Semester**, Vienna University of Technology (Software Engineering)
+- **Exchange Semester**, Vienna University of Technology (Software Engineering and Internet Computing)
 - **Bachelor's in Computer Science & IT**, NED University of Engineering and Technology
 
 ### Professional Experience
