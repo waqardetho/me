@@ -40,6 +40,10 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 #### Universität Konstanz (Germany)
 **Student Research Assistant** (Nov 2013 – Apr 2015)
 - Worked on the "DAMIART" project for data mining using ART neural networks.
+- Contributed to the development of datasets for classification and implemented hierarchical performance measures.
+- Led the integration of the MEKA library for multi-label classification.
+- Supervised the development of the "Rule Explorer" module in KNIME for visualization and analysis of fuzzy rules and associations.
+- For more details on the project, see the [DAMIART publication](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BeSa14a.pdf){:target="_blank"}.
 
 ![Waqar A. Detho](waqar-chair.jpg)
 
