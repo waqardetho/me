@@ -1,5 +1,7 @@
 # Waqar A. Detho
 
+![Waqar A. Detho](waqar.jpg)
+
 ## Senior Application Development Specialist | Full-Stack Developer
 
 ### About Me
