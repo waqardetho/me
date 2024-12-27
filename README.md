@@ -1,4 +1,3 @@
-# Waqar A. Detho
 
 ## Senior Application Development Specialist | Full-Stack Developer
 
