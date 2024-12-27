@@ -48,7 +48,7 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 - Building Angular Applications
 
 ### Publications
-- Developing a system for securely timestamping and visualizing changes in online news content.
+- [Developing a system for securely timestamping and visualizing changes in online news content.](https://arxiv.org/abs/1802.07285)
 
 ### Contact
 - **Email:** waqar.detho@gmail.com
