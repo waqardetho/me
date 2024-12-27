@@ -1,7 +1,5 @@
 # Waqar A. Detho
 
-![Waqar A. Detho](waqar.jpg)
-
 ## Senior Application Development Specialist | Full-Stack Developer
 
 ### About Me
@@ -42,6 +40,8 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 #### Universität Konstanz (Germany)
 **Student Research Assistant** (Nov 2013 – Apr 2015)
 - Worked on the "DAMIART" project for data mining using ART neural networks.
+
+![Waqar A. Detho](waqar-chair.jpg)
 
 ### Certifications
 - Learning Jenkins
