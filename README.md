@@ -83,10 +83,14 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 - **Email:** [waqar.detho@gmail.com](mailto:waqar.detho@gmail.com){:target="_blank"}
 - **LinkedIn:** [linkedin.com/in/waqaralidetho](https://www.linkedin.com/in/waqaralidetho){:target="_blank"}
 
-  ```
+```
 <!-- Contact Form -->
 <form action="https://formspree.io/f/myzzeryo" method="POST" style="max-width: 600px; margin: auto; background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h3 style="text-align: center; color: #333;">Contact Me</h3>
+  <label style="display: block; margin: 10px 0 5px; color: #555;">
+    Your Name:
+    <input type="text" name="name" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
+  </label>
   <label style="display: block; margin: 10px 0 5px; color: #555;">
     Your Email:
     <input type="email" name="email" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
