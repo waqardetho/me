@@ -45,6 +45,26 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 - Supervised the development of the "Rule Explorer" module in KNIME for visualization and analysis of fuzzy rules and associations.
 - For more details on the project, see the [DAMIART publication](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BeSa14a.pdf){:target="_blank"}.
 
+
+#### TPS Pakistan (Karachi, Pakistan)
+**Software Engineer** (Dec 2012 – Aug 2013)
+- Developed card production and personalization software, integrating Visa/MasterCard into existing systems.
+- **Tech:** Visual Basic, MS SQL Server, Seagate Crystal Reports.
+
+#### Workstream Automation (Karachi, Pakistan)
+**Software Developer** (Jan 2012 – Nov 2012)
+- Contributed to Workstream Business Analyst and Intelligence tools.
+- **Tech:** Java, Vaadin, Hibernate, MSSQL, MySQL, XML.
+
+#### AutoSoft Dynamics (Karachi, Pakistan)
+**Software Programmer** (Jun 2010 – Dec 2011)
+- Created software for bank treasury (ADAMS).
+- **Tech:** Power Builder, SQL Server.
+
+#### Catcos (Karachi, Pakistan)
+**Network Administrator** (Feb 2010 – Jun 2010)
+- Managed network services and infrastructure.
+
 ![Waqar A. Detho](waqar-chair.jpg)
 
 ### Certifications
