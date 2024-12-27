@@ -84,7 +84,6 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 - **LinkedIn:** [linkedin.com/in/waqaralidetho](https://www.linkedin.com/in/waqaralidetho){:target="_blank"}
 
 
-```html
 <!-- Contact Form -->
 <form action="https://formspree.io/f/myzzeryo" method="POST" style="max-width: 600px; margin: auto; background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h3 style="text-align: center; color: #333;">Contact Me</h3>
@@ -104,7 +103,25 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
     Send
   </button>
 </form>
-```
+<!-- Contact Form -->
+<form action="https://formspree.io/f/myzzeryo" method="POST" style="max-width: 600px; margin: auto; background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="text-align: center; color: #333;">Contact Me</h3>
+  <label style="display: block; margin: 10px 0 5px; color: #555;">
+    Your Name:
+    <input type="text" name="name" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
+  </label>
+  <label style="display: block; margin: 10px 0 5px; color: #555;">
+    Your Email:
+    <input type="email" name="email" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px;">
+  </label>
+  <label style="display: block; margin: 10px 0 5px; color: #555;">
+    Your Message:
+    <textarea name="message" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; height: 100px;"></textarea>
+  </label>
+  <button type="submit" style="display: block; width: 100%; background: #007BFF; color: #fff; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer;">
+    Send
+  </button>
+</form>
 
 ### Download CV
 - [Download My CV](WaqarADethoResume.pdf){:target="_blank"}
