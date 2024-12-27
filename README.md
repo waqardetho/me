@@ -54,3 +54,6 @@ I am an experienced Full-Stack Developer with over 10 years of expertise in Java
 - **Email:** [waqar.detho@gmail.com](mailto:waqar.detho@gmail.com){:target="_blank"}
 - **Phone:** +49-175-5763-512
 - **LinkedIn:** [linkedin.com/in/waqaralidetho](https://www.linkedin.com/in/waqaralidetho){:target="_blank"}
+
+### Download CV
+- [Download My CV](WaqarADethoResume.pdf){:target="_blank"}
