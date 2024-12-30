@@ -1,5 +1,5 @@
 
-## Senior Application Development Specialist | Full-Stack Developer
+## Senior Application Developer | Full-Stack Developer
 
 ### About Me
 I am an experienced Full-Stack Developer with over 10 years of expertise in Java, Spring Boot, and Angular. I have worked on scalable applications and led teams in Agile environments. My passion for innovative IT solutions is complemented by my educational background in AI and Machine Learning.
